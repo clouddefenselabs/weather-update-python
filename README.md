@@ -48,7 +48,7 @@ However, these scripts are designed to be run automatically using cron jobs.
 
 1. Open your crontab file for editing:
 ```bash
-contab -e
+crontab -e
 ```
 2. Add the following lines to your crontab:
 ```bash

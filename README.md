@@ -19,6 +19,6 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository:
-2. '''bash
+2. ```bash
     pip install -r requirements.txt
-    '''
+    ```

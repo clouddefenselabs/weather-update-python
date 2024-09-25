@@ -28,13 +28,13 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-1. Open `latest.py` and `forecast.py` in a text editor.
+1. Open `.env` in a text editor.
 
-2. In both files, replace `"YOUR_DISCORD_WEBHOOK_URL_HERE"` with your actual Discord webhook URL.
+2. Replace `"YOUR_DISCORD_WEBHOOK_URL_HERE"` with your actual Discord webhook URL.
 
-3. In `latest.py`, set the `station_id` variable to your desired weather station ID.
+3. Set the `station_id` variable to your desired weather station ID.
 
-4. In `forecast.py`, set the `latitude` and `longitude` variables to your desired location.
+4. Set the `latitude` and `longitude` variables to your desired location.
 
 ## Usage
 

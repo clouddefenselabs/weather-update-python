@@ -21,15 +21,10 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository
-2.  Navigate to the project directory:  ```bash
-cd weather-update-python
-```
-3. ```bash
-    pip install -r requirements.txt
-    ```
-4. Make the scripts executable:```bash
-chmod +x latest.py forecast.py
-```
+2.  Navigate to the project directory:  
+   `cd weather-update-python`
+3. `pip install -r requirements.txt`
+4. Make the scripts executable: `chmod +x latest.py forecast.py`
 
 ## Configuration
 

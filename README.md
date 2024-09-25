@@ -88,10 +88,12 @@ This script retrieves a weather forecast for specified coordinates. It provides:
 ## Environment Variables
 
 This project uses a .env file to manage environment variables. Before running the scripts, modify the .env file to match your environment:
-DISCORD_WEBHOOK_URL=YOUR_DISCORD_WEBHOOK_URL
+
+```DISCORD_WEBHOOK_URL=YOUR_DISCORD_WEBHOOK_URL
 LATITUDE=YOUR_LATITUDE_COORDINATES
 LONGITUDE=YOUR_LONGITUDE_COORDINATES
 STATION_ID=WEATHER_STATION_ID_YOU_WANT
+```
 
   For the Latitude/Longitude, I used [https://www.latlong.net](LatLong.net)
   For the STATION_ID, I did the following:
